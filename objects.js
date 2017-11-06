@@ -1,4 +1,4 @@
 var playlist = {
-artistName: 'anton',
-songTitle: 'maybe'
+'anton' : 'maybe'
+'something' : 'songthing'
 }
