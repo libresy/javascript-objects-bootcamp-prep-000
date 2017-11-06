@@ -1,4 +1,4 @@
 var playlist = {
-  artist: 
-  song:
+breakfast: 'oatmeal',
+lunch: 'burrito'  
 }
